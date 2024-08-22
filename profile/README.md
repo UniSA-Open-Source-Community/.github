@@ -1,10 +1,10 @@
-# Open Source Community Club
+# UniSA Open Source Community
 
-Welcome to the **Open Source Community Club**! We are a student-led initiative at the University of South Australia, dedicated to fostering a collaborative environment for anyone interested in open source software, development, and community-driven projects.
+Welcome to the **UniSA Open Source Community**! We are a student-led initiative at the University of South Australia, dedicated to fostering a collaborative environment for anyone interested in open source software, development, and community-driven projects.
 
 ## About Us
 
-The Open Source Community Club is your gateway to the world of open source. Whether you're a seasoned developer or just starting, our club provides opportunities to learn, contribute, and collaborate on open source projects. We host workshops, hackathons, and meetups, and we are passionate about making technology accessible to everyone.
+The UniSA Open Source Community is your gateway to the world of open source. Whether you're a seasoned developer or just starting, our club provides opportunities to learn, contribute, and collaborate on open source projects. We host workshops, hackathons, and meetups, and we are passionate about making technology accessible to everyone.
 
 ## What We Do
 
@@ -15,7 +15,7 @@ The Open Source Community Club is your gateway to the world of open source. Whet
 
 ## Get Involved
 
-Joining the Open Source Community Club is easy! If you're a UniSA student, you can become a member through our [USASA club page](https://usasa.sa.edu.au/clubs/join/opensourcecommunity/).
+Joining the UniSA Open Source Community is easy! If you're a UniSA student, you can become a member through our [USASA club page](https://usasa.sa.edu.au/clubs/join/opensourcecommunity/).
 
 You can also get involved by:
 - Attending our events and workshops.
