@@ -20,16 +20,16 @@ Joining the Open Source Community Club is easy! If you're a UniSA student, you c
 You can also get involved by:
 - Attending our events and workshops.
 - Contributing to our GitHub repositories.
-- Following us on [social media platforms](#) for the latest updates.
 
-## How to Contribute
+## How to Contribute to any of the repos
 
 We welcome contributions from everyone! To get started:
-1. Fork this repository.
-2. Create a new branch for your feature or bugfix (`git checkout -b feature-name`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to your branch (`git push origin feature-name`).
-5. Create a Pull Request.
+1. Be a registered member of the UniSA Open Source Community! 
+2. Fork this repository.
+3. Create a new branch for your feature or bugfix (`git checkout -b feature-name`).
+4. Make your changes and commit them (`git commit -m 'Add new feature'`).
+5. Push to your branch (`git push origin feature-name`).
+6. Create a Pull Request.
 
 Please ensure your code follows our [code of conduct](#code-of-conduct) and [contribution guidelines](#contribution-guidelines).
 
@@ -44,8 +44,8 @@ Before contributing, please review our [Contribution Guidelines](./CONTRIBUTING.
 ## Contact Us
 
 If you have any questions or suggestions, feel free to reach out to us:
-- **Email:** [contact@opensourcecommunity.com](mailto:contact@opensourcecommunity.com)
-- **Join our Discord:** [Invite Link](#)
+- **Email:** [USASA-OpenSource@unisa.edu.au](mailto:USASA-OpenSource@unisa.edu.au)
+- **Join our Discord:** [Invite Link](https://discord.gg/eacrWdsGV7)
 - **Follow us on Twitter:** [@OpenSourceUniSA](#)
 
 ## License
